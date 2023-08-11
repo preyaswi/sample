@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+header div{
+    height: 3rem;
+}
+.row{
+    background-color: antiquewhite;
+    border-radius: 20px;
+    box-shadow: 12px 12px 20px;
+}
+section img{
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+section .img-fluid{
+    height: 100%;
+}
+.btn.btn-dark:hover{
+    background-color:gray;
+    color: black;
+}
